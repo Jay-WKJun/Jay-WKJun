@@ -8,7 +8,7 @@
 - Express.js
 - Mongo DB
 
-## I'm
+## I'm (a developer)
 
 - **Quick learner**
 
@@ -20,6 +20,6 @@
 
 - **Good Colleague** want to work with and trusted
 
-- **Provide Helpful/Joyful Program** to people
+- a developer can **Provide Helpful/Joyful Program** to people
 
 ### Thank you!
