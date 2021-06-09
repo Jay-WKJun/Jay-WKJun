@@ -10,14 +10,16 @@
 
 ## I'm
 
-- Quick learner
+- **Quick learner**
 
-- Always think How to Solve the problems correctly & effectively
+- Pursue the **clean code** that is read easily like a story book
+
+- Always think How to **Solve the problems correctly & effectively**
 
 ## I always aim to be
 
-- good Colleague want to work with
+- **Good Colleague** want to work with and trusted
 
-- Provide Helpful/Joyful Program to people
+- **Provide Helpful/Joyful Program** to people
 
 ### Thank you!
