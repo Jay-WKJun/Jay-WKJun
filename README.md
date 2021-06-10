@@ -7,6 +7,8 @@
 - Node.js
 - Express.js
 - Mongo DB
+- Java
+- SQL
 
 ## I'm (a developer)
 
@@ -15,6 +17,8 @@
 - Pursue the **clean code** that is read easily like a story book
 
 - Always think How to **Solve the problems correctly & effectively**
+
+- **Love Challenges** which make people happy and make me feel sense of acheivement
 
 ## I always aim to be
 
