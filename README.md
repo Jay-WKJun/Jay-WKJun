@@ -1,8 +1,8 @@
 # Woo KyungJun
 
 <b>👨‍💻 Software & Web Developer</b>
-
-- Javascript
+- TypeScript
+- JavaScript
 - React.js
 - Node.js
 - Express.js
