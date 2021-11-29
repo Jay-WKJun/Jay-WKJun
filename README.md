@@ -7,8 +7,6 @@
 - Node.js
 - Express.js
 - Mongo DB
-- Java
-- SQL
 
 ## I'm (a developer)
 
