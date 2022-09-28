@@ -17,7 +17,7 @@
 - ✍️ 우아한 스터디 JavaScript 완벽가이드 완독 스터디, 2022.04 ~ 2022.09
 - ✍️ [TypeScript OOP 스터디](https://github.com/FECrash/TypeScript-OOP), 2022.05 ~ 2022.06
 - ✍️ [F-lab 프론트엔드 멘토링 프로그램](https://github.com/f-lab-edu/shareRoom-FE), 2022.03 ~ 2022.08
-- 🧑‍💻 [react-web-code-editor](https://www.npmjs.com/package/react-web-code-editor) 오픈소스 라이브러리 개발, 2022.01 ~ 2022.05
+- 🧑‍💻 [react-web-code-editor](https://www.npmjs.com/package/react-web-code-editor) 오픈소스 라이브러리 1인 개발, 2022.01 ~ 2022.05
 - <img style="width: 1em;" src="https://user-images.githubusercontent.com/40374023/192818419-d1b7e5a5-5b42-4987-ab35-36210196f745.jpeg" /> [Channel Corp.](https://channel.io/ko) ```FE developer```, 2021.08 ~ 2021.11
 - ✍️ [Vanilla Coding](https://www.vanillacoding.co/), 2021.01 ~ 2021.06
 
