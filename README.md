@@ -15,7 +15,7 @@
 ### Activities
 
 - <img style="width: 1em;" src="https://www.jocoos.com/favicon.ico" /> [Jocoos](https://m.mybeautip.com/) ```FE developer```, 2022.01 ~
-- ✍️ 우아한 스터디 JavaScript 완벽가이드 완독 스터디, 2022.04 ~ 2022.09
+- <img style="width: 1em;" src="https://user-images.githubusercontent.com/40374023/193412442-117b5b19-0ced-4c39-aad4-58fd7da4bdc9.jpg" /> 우아한 스터디 JavaScript 완벽가이드 완독 스터디, 2022.04 ~ 2022.09
 - 🧑‍💻 [테오의 스프린트 11기](https://github.com/Kunis-Teo/Linkuni) 링쿠니 서비스 개발 스프린트, 2022.08 ~ 2022.08
 - ✍️ [F-lab 프론트엔드 멘토링 프로그램](https://github.com/f-lab-edu/shareRoom-FE), 2022.03 ~ 2022.08
 - ✍️ [TypeScript OOP 스터디](https://github.com/FECrash/TypeScript-OOP), 2022.05 ~ 2022.06
