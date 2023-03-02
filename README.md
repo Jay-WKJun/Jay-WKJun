@@ -14,7 +14,7 @@
 
 ### Activities
 
-- <img style="width: 1em;" src="https://www.jocoos.com/favicon.ico" /> [Jocoos](https://m.mybeautip.com/) ```FE developer```, 2022.01 ~
+- <img style="width: 1em;" src="https://www.jocoos.com/favicon.ico" /> [Jocoos](https://m.mybeautip.com/) ```FE developer```, 2022.01 ~ 2023.03
 - <img style="width: 1em;" src="https://edu.nextstep.camp/favicon.ico" /> [Next Step](https://edu.nextstep.camp/) TDD, with React 2기, 2023.2 ~ 
 - <img style="width: 1em;" src="https://edu.nextstep.camp/favicon.ico" /> [Next Step](https://edu.nextstep.camp/) TDD, with JavaScript 4기, 2022.11 ~ 2022.12 [PR](https://github.com/next-step/js-calculator/pull/167) [PR](https://github.com/next-step/js-vending-machine/pull/60)
 - <img style="width: 1em;" src="https://user-images.githubusercontent.com/40374023/193412442-117b5b19-0ced-4c39-aad4-58fd7da4bdc9.jpg" /> 우아한 스터디 JavaScript 완벽가이드 완독 스터디, 2022.04 ~ 2022.09
