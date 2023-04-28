@@ -8,14 +8,14 @@
 
 <div align="left">
 
-[![Notion Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white)](https://expensive-ruby-73c.notion.site/Tool-maker-76c60dc639da4c0294d2a23f47476af7) [![Jekyll Badge](https://img.shields.io/badge/Blog-cc0000?style=flat-square&logo=jekyll&logoColor=white)](https://jay-wkjun.github.io/) <a href="mailto:natcho9010@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a> [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@Lucky.Jun) [![Github Badge](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jay-WKJun)
+[![Notion Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white)](https://expensive-ruby-73c.notion.site/Tool-maker-76c60dc639da4c0294d2a23f47476af7) [![Jekyll Badge](https://img.shields.io/badge/Blog-cc0000?style=flat-square&logo=jekyll&logoColor=white)](https://jay-wkjun.github.io/) [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://medium.com/@Lucky.Jun) <a href="mailto:natcho9010@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a> [![Github Badge](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jay-WKJun)
   
 </div>
 
 ### Activities
 
 - <img style="width: 1em;" src="https://www.jocoos.com/favicon.ico" /> [Jocoos](https://m.mybeautip.com/) ```FE developer```, 2022.01 ~ 2023.03
-- <img style="width: 1em;" src="https://edu.nextstep.camp/favicon.ico" /> [Next Step](https://edu.nextstep.camp/) TDD, with React 2기, 2023.2 ~ 
+- <img style="width: 1em;" src="https://edu.nextstep.camp/favicon.ico" /> [Next Step](https://edu.nextstep.camp/) TDD, with React 2기, 2023.2 ~ 2023.4 [![Payments NPM](https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/luckyjun-react-payments) [PR](https://github.com/next-step/react-payments/pull/98)
 - <img style="width: 1em;" src="https://edu.nextstep.camp/favicon.ico" /> [Next Step](https://edu.nextstep.camp/) TDD, with JavaScript 4기, 2022.11 ~ 2022.12 [PR](https://github.com/next-step/js-calculator/pull/167) [PR](https://github.com/next-step/js-vending-machine/pull/60)
 - <img style="width: 1em;" src="https://user-images.githubusercontent.com/40374023/193412442-117b5b19-0ced-4c39-aad4-58fd7da4bdc9.jpg" /> 우아한 스터디 JavaScript 완벽가이드 완독 스터디, 2022.04 ~ 2022.09
 - 🧑‍💻 [테오의 스프린트 11기](https://github.com/Kunis-Teo/Linkuni) 링쿠니 서비스 개발 스프린트, 2022.08 ~ 2022.08
