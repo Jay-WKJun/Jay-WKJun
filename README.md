@@ -14,6 +14,7 @@
 
 ### Activities
 
+- <img style="width: 1em;" src="https://www.depromeet.com/favicon.ico" /> [디프만 13기](https://github.com/depromeet) 2023.04 ~ 
 - <img style="width: 1em;" src="https://www.jocoos.com/favicon.ico" /> [Jocoos](https://m.mybeautip.com/) ```FE developer```, 2022.01 ~ 2023.03
 - <img style="width: 1em;" src="https://edu.nextstep.camp/favicon.ico" /> [Next Step](https://edu.nextstep.camp/) TDD, with React 2기, 2023.2 ~ 2023.4 [![Payments NPM](https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/luckyjun-react-payments) [PR](https://github.com/next-step/react-payments/pull/98)
 - <img style="width: 1em;" src="https://edu.nextstep.camp/favicon.ico" /> [Next Step](https://edu.nextstep.camp/) TDD, with JavaScript 4기, 2022.11 ~ 2022.12 [PR](https://github.com/next-step/js-calculator/pull/167) [PR](https://github.com/next-step/js-vending-machine/pull/60)
