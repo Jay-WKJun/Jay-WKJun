@@ -12,7 +12,8 @@
 
 ### Activities
 
-- <img style="width: 1em;" src="https://riiid.com/icons/riiid_icon.png" /> [Riiid](https://riiid.com/) `산타 core 팀, FE developer`, 2023.07 ~
+- <img style="width: 1em;" src="https://www.ihateflyingbugs.com/favicon.ico" /> [I hate flying bugs](https://www.ihateflyingbugs.com/) `FE developer`, 2024.04 ~
+- <img style="width: 1em;" src="https://riiid.com/icons/riiid_icon.png" /> [Riiid](https://riiid.com/) `산타 core 팀, FE developer`, 2023.07 ~ 2024.03
 - <img style="width: 1em;" src="https://react.dev/favicon.ico" /> [리액트 공식문서 번역](https://github.com/reactjs/ko.react.dev) 2023 [번역 PR](https://github.com/reactjs/ko.react.dev/pull/624) [번역PR](https://github.com/reactjs/ko.react.dev/pull/774)
 - <img style="width: 1em;" src="https://www.jocoos.com/favicon.ico" /> [Jocoos](https://m.mybeautip.com/) ```FE developer```, 2022.01 ~ 2023.03
 - <img style="width: 1em;" src="https://edu.nextstep.camp/favicon.ico" /> [Next Step](https://edu.nextstep.camp/) TDD, with React 2기, 2023.2 ~ 2023.4 [![Payments NPM](https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/luckyjun-react-payments) [PR](https://github.com/next-step/react-payments/pull/98)
