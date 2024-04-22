@@ -12,7 +12,7 @@
 
 ### Activities
 
-- <img style="width: 1em;" src="https://www.ihateflyingbugs.com/favicon.ico" /> [ihateflyingbugs](https://www.ihateflyingbugs.com/) `FE developer`, 2024.04 ~
+- <img style="width: 1em;" src="https://www.ihateflyingbugs.com/favicon.ico" /> [ihateflyingbugs](https://www.ihateflyingbugs.com/) `FE developer`, 2024.04 ~
 - <img style="width: 1em;" src="https://riiid.com/icons/riiid_icon.png" /> [Riiid](https://riiid.com/) `산타 core 팀, FE developer`, 2023.07 ~ 2024.03
 - <img style="width: 1em;" src="https://react.dev/favicon.ico" /> [리액트 공식문서 번역](https://github.com/reactjs/ko.react.dev) 2023 [번역 PR](https://github.com/reactjs/ko.react.dev/pull/624) [번역PR](https://github.com/reactjs/ko.react.dev/pull/774)
 - <img style="width: 1em;" src="https://www.jocoos.com/favicon.ico" /> [Jocoos](https://m.mybeautip.com/) ```FE developer```, 2022.01 ~ 2023.03
