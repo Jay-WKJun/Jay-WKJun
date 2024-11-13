@@ -6,7 +6,7 @@
 
 <div align="left">
 
-[![Notion Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white)](https://expensive-ruby-73c.notion.site/Tool-maker-76c60dc639da4c0294d2a23f47476af7) [![Jekyll Badge](https://img.shields.io/badge/Blog-cc0000?style=flat-square&logo=jekyll&logoColor=white)](https://jay-wkjun.github.io/) [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)]([https://medium.com/@Lucky.Jun](https://velog.io/@lucky-jun)) <a href="mailto:natcho9010@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a> [![Github Badge](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jay-WKJun)
+[![Jekyll Badge](https://img.shields.io/badge/Blog-cc0000?style=flat-square&logo=jekyll&logoColor=white)](https://jay-wkjun.github.io/) [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)]([https://medium.com/@Lucky.Jun](https://velog.io/@lucky-jun)) <a href="mailto:natcho9010@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a> [![Github Badge](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jay-WKJun)
   
 </div>
 
