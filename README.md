@@ -10,22 +10,6 @@
   
 </div>
 
-### Activities
-
-- <img style="width: 1em;" src="https://www.ihateflyingbugs.com/favicon.ico" /> [ihateflyingbugs](https://www.ihateflyingbugs.com/) `FE developer`, 2024.04 ~
-- <img style="width: 1em;" src="https://riiid.com/icons/riiid_icon.png" /> [Riiid](https://riiid.com/) `산타 core 팀, FE developer`, 2023.07 ~ 2024.03
-- <img style="width: 1em;" src="https://react.dev/favicon.ico" /> [리액트 공식문서 번역](https://github.com/reactjs/ko.react.dev) 2023 [번역 PR](https://github.com/reactjs/ko.react.dev/pull/624) [번역PR](https://github.com/reactjs/ko.react.dev/pull/774)
-- <img style="width: 1em;" src="https://www.jocoos.com/favicon.ico" /> [Jocoos](https://m.mybeautip.com/) ```FE developer```, 2022.01 ~ 2023.03
-- <img style="width: 1em;" src="https://edu.nextstep.camp/favicon.ico" /> [Next Step](https://edu.nextstep.camp/) TDD, with React 2기, 2023.2 ~ 2023.4 [![Payments NPM](https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/luckyjun-react-payments) [PR](https://github.com/next-step/react-payments/pull/98)
-- <img style="width: 1em;" src="https://edu.nextstep.camp/favicon.ico" /> [Next Step](https://edu.nextstep.camp/) TDD, with JavaScript 4기, 2022.11 ~ 2022.12 [PR](https://github.com/next-step/js-calculator/pull/167) [PR](https://github.com/next-step/js-vending-machine/pull/60)
-- <img style="width: 1em;" src="https://user-images.githubusercontent.com/40374023/193412442-117b5b19-0ced-4c39-aad4-58fd7da4bdc9.jpg" /> 우아한 스터디 JavaScript 완벽가이드 완독 스터디, 2022.04 ~ 2022.09
-- 🧑‍💻 [테오의 스프린트 11기](https://github.com/Kunis-Teo/Linkuni) 링쿠니 서비스 개발 스프린트, 2022.08 ~ 2022.08
-- ✍️ [F-lab 프론트엔드 멘토링 프로그램](https://github.com/f-lab-edu/shareRoom-FE), 2022.03 ~ 2022.08
-- ✍️ [TypeScript OOP 스터디](https://github.com/FECrash/TypeScript-OOP), 2022.05 ~ 2022.06
-- 🧑‍💻 [react-web-code-editor](https://www.npmjs.com/package/react-web-code-editor) 오픈소스 라이브러리 1인 개발, 2022.01 ~ 2022.05
-- <img style="width: 1em;" src="https://user-images.githubusercontent.com/40374023/192818419-d1b7e5a5-5b42-4987-ab35-36210196f745.jpeg" /> [Channel Corp.](https://channel.io/ko) ```FE developer```, 2021.08 ~ 2021.11
-- ✍️ [Vanilla Coding](https://www.vanillacoding.co/), 2021.01 ~ 2021.06
-
 ## Open Source Library
 
 ### 👩‍💻 react-web-code-editor [![NPM badge](https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/react-web-code-editor) [![Github Badge](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jay-WKJun/react-web-code-editor)
