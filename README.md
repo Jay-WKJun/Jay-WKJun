@@ -6,7 +6,7 @@
 
 <div align="left">
 
-[![Jekyll Badge](https://img.shields.io/badge/Blog-cc0000?style=flat-square&logo=jekyll&logoColor=white)](https://jay-wkjun.github.io/) [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)]([https://medium.com/@Lucky.Jun](https://velog.io/@lucky-jun)) <a href="mailto:natcho9010@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a> [![Github Badge](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jay-WKJun)
+[![Hashnode Badge](https://img.shields.io/badge/Blog-cc0000?style=flat-square&logo=hashnode&logoColor=white)](https://luckyjun.hashnode.dev/) [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)]([https://medium.com/@Lucky.Jun](https://velog.io/@lucky-jun)) <a href="mailto:natcho9010@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a> [![Github Badge](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jay-WKJun)
   
 </div>
 
